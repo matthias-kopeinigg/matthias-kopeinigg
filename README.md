@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Veqflix](https://github.com/matkollin/veqflix)
 
-- 🌱 I’m currently learning **AWS, Kubernetes and frontend development**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **matkollin@gmail.com**
 
