@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matkollin&label=Profile%20views&color=0e75b6&style=flat" alt="matkollin" /> </p>
 
 
-- 🔭 I’m currently working on [Tebex microservice](https://github.com/matkollin/tebex-microservice), [Prew](https://github.com/matkollin/prew) and [Veqflix](https://github.com/matkollin/veqflix)
+- 🔭 I’m currently working on [Prew](https://github.com/matkollin/prew)
 
 - 🌱 I’m currently learning **Kubernetes**
 
