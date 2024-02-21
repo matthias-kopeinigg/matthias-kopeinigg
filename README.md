@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Matthias 👋</h1>
 <h3 align="center">A passionate backend developer from Austria (Vienna)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matkollin&label=Profile%20views&color=0e75b6&style=flat" alt="matkollin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthias-kopeinigg&label=Profile%20views&color=0e75b6&style=flat" alt="matkollin" /> </p>
 
-
-- 🔭 I’m currently working on [Prew](https://github.com/matkollin/prew)
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 📫 How to reach me **matkollin@gmail.com**
+- 📫 How to reach me **matthiaskopeinigg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
