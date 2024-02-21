@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Matthias 👋</h1>
 <h3 align="center">A passionate backend developer from Austria (Vienna)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthias-kopeinigg&label=Profile%20views&color=0e75b6&style=flat" alt="matkollin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthias-kopeinigg&label=Profile%20views&color=0e75b6&style=flat" alt="matthias-kopeinigg" /> </p>
 
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Agones**
 
 - 📫 How to reach me **matthiaskopeinigg@gmail.com**
 
