@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthias-kopeinigg&label=Profile%20views&color=0e75b6&style=flat" alt="matthias-kopeinigg" /> </p>
 
 
-- 🌱 I’m currently learning **Agones**
+- 🔭 I’m currently working on [Novux]([https://github.com/matkollin/prew](https://github.com/matthias-kopeinigg/novux))
 
 - 📫 How to reach me **matthiaskopeinigg@gmail.com**
 
