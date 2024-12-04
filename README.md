@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/matkollin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matkollin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matthias-kopeinigg-9a49ab238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthias-kopeinigg-9a49ab238" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20396687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20396687" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19003141/matthias-kopeinigg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20396687" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Most used Languages and Tools:</h3>
